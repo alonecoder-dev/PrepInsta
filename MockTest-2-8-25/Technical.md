@@ -1,4 +1,3 @@
-Here is the content formatted neatly.
 
 -----
 
